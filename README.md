@@ -207,7 +207,7 @@ npm run dev
 
 ## Author
 
-**Aditya Yadav**
+**Saima Bano**
 
 GitHub: https://github.com/SaimaBano0721
 
