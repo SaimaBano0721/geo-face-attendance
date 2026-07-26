@@ -84,7 +84,7 @@ geo-face-attendance/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/AdiCoder0721/geo-face-attendance.git
+git clone https://github.com/SaimaBano0721/geo-face-attendance.git
 ```
 
 ### Navigate
@@ -209,7 +209,7 @@ npm run dev
 
 **Aditya Yadav**
 
-GitHub: https://github.com/AdiCoder0721
+GitHub: https://github.com/SaimaBano0721
 
 ---
 
